@@ -1,0 +1,7 @@
+REST (Representational State Transfer) is a software architectural style used for building distributed systems. It is a set of guidelines for designing web services that are scalable, maintainable, and easy to work with.
+
+RESTful APIs are built using HTTP methods like GET, POST, PUT, DELETE, and PATCH to perform CRUD (Create, Read, Update, Delete) operations on resources. These resources are typically represented as URIs (Uniform Resource Identifiers), and each request to the API is stateless, meaning that the server does not maintain any information about the client between requests.
+
+RESTful APIs also make use of HTTP status codes to indicate the success or failure of a request, and typically use JSON (JavaScript Object Notation) or XML (eXtensible Markup Language) to format data in the request and response bodies.
+
+In summary, a REST API is a web service that follows the principles of the REST architectural style. It is designed to provide a simple, standardized way for clients to interact with server resources over the internet.
